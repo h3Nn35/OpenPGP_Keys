@@ -13,3 +13,7 @@ AAD7038C988E0F461CA1B1877E9C983FF4BDA36D
 B405762D2B17E0EA3D578F19D521C2D3D3AEBA67
 ## eigene Domain
 43C6711294DCE6C2A12C59768CEF3314C0C16469
+
+# Wer keine Ahnung hat, was es damit auf sich hat
+OpenPGP ist ein standardisiertes Datenformat für verschlüsselte und digital signierte Daten. Man kann damit sowohl eine Email signieren, also bestätigen, dass sie von einem selbst kommt und dass sie nicht verändert wurde. Im zweiten Schritt kann die Email auch komplett verschlüsselt werden, sodass sie nur noch vom Empfänger gelesen werden kann.  
+Einfach mal im Internet nach OpenPGP bzw. GnuPGP suchen ;-)
